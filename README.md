@@ -1,10 +1,8 @@
 <div align="center" style="position: relative;">
-  <!-- 배경이 되는 캡슐 렌더 헤더 -->
+  <img src="https://github.com/adunto/adunto/blob/main/%ED%97%A4%EB%8D%94.png?raw=true" alt="프로필 헤더" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 200px; border-radius: 50%;"/>
   <a href="https://github.com/adunto">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome!!&reversal=false&textBg=false&fontColor=e5e5e5&fontAlignY=40" width="100%" />
-  </a>
-  <!-- 위에 겹쳐질 개인 이미지 -->
-  <img src="https://github.com/adunto/adunto/blob/main/%ED%97%A4%EB%8D%94.603Z.png?raw=true" alt="프로필 헤더" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 150px; border-radius: 50%;"/>
+  </a>  
 </div>
 
 ## Hi there 👋
