@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://github.com/adunto">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=My%20Profile&fontSize=90" />
+  </a>
+  <img src="./헤더.603Z.png" alt="프로필 헤더" style="position: absolute; top: 100px; left: 50%; transform: translateX(-50%); width: 150px; border-radius: 50%;"/>
+</div>
+
 ## Hi there 👋
 
 🌱 프론트엔드 개발자 지망생
